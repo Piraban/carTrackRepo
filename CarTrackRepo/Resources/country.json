@@ -1,0 +1,104 @@
+[
+    {
+        "name": "United Kingdom",
+        "code": "GB"
+    },
+    
+    {
+        "name": "Australia",
+        "code": "AU"
+    },
+    {
+        "name": "Austria",
+        "code": "AT"
+    },
+    
+    {
+        "name": "Bangladesh",
+        "code": "BD"
+    },
+    
+    {
+        "name": "Hong Kong",
+        "code": "HK"
+    },
+    {
+        "name": "India",
+        "code": "IN"
+    },
+    {
+        "name": "Indonesia",
+        "code": "ID"
+    },
+    {
+        "name": "Japan",
+        "code": "JP"
+    },
+    {
+        "name": "Malaysia",
+        "code": "MY"
+    },
+    {
+        "name": "Moldovia",
+        "code": "MD"
+    },
+    {
+        "name": "Myanmar",
+        "code": "MM"
+    },
+    {
+        "name": "New Zealand",
+        "code": "NZ"
+    },
+    {
+        "name": "Philippines",
+        "code": "PH"
+    },
+   
+    {
+        "name": "Russia",
+        "code": "RU"
+    },
+   
+    {
+        "name": "Singapore",
+        "code": "SG"
+    },
+  
+    {
+        "name": "South Africa",
+        "code": "ZA"
+    },
+   
+    {
+        "name": "Swaziland",
+        "code": "SZ"
+    },
+    {
+        "name": "Sweden",
+        "code": "SE"
+    },
+    {
+        "name": "Switzerland",
+        "code": "CH"
+    },
+    {
+        "name": "Thailand",
+        "code": "TH"
+    },
+   
+    {
+        "name": "United Arab Emirates",
+        "code": "AE"
+    },
+    {
+        "name": "United States",
+        "code": "US"
+    },
+    {
+        "name": "Vietnam",
+        "code": "VN"
+    },
+   
+]
+

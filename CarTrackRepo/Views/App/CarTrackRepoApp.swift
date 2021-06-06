@@ -11,7 +11,8 @@ import SwiftUI
 struct CarTrackRepoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EntryView()
+                .environmentObject(AppState())
         }
     }
 }

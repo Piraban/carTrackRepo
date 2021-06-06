@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  CarTrackRepo
+
+  Created by Piraba Nagkeeran on 6/6/21.
+  
+*/
+
+//MARK:- Error
+"emptyUsername"       = "Please enter username";
+"emptyPassword"       = "Please enter valid password";
+"emptyCountry"        = "please select country.";
+"usernameOrPassword"  = "Username or password is not valid.";
+
+//MARK:- Service Error
+"serviceError.title"             = "Whoops... Something went wrong";
+"serviceError.descriptionStart"  = "Whoops... Something went wrong.";
+"serviceError.descriptionEnd"    = "Please try again..";
+
+//MARK:- No Network
+"noNetwork.title"           = "We can't get a connection?";
+"noNetwork.description"     = "Are you connected to the internet? We cant find a connection? Please check your network settings";
+
+//MARK :- Splash Screen
+"splash.descriptionStart" = "CarTrack Practical.";
+"splash.descriptionEnd" = "Exam";
+
+//MARK :- Login Screen
+"login.username" = "Username.";
+"login.password" = "Password";
+
+//MARK :- User Screen
+"user.title" = "Users";
