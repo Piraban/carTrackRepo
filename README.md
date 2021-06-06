@@ -1,4 +1,4 @@
-# carTrackRepo
+# CarTrackRepo
 Clone the project
 SwiftUI 2.0 + Combine 
 Run on xcode 12
