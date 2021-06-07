@@ -13,14 +13,13 @@ class AppState: ObservableObject {
     @Published var isLoggedUser: Bool = false {
         didSet {
             UserDefaults.standard.set(isLoggedUser, forKey: "isLoggedUser")
-
         }
     }
 
     @Published var isSessionExpired: Bool = false {
         didSet {
             if(isSessionExpired) {
-             //   UserUtils.deleteUserToken()
+                //TODO: change the status when user logout
             }
         }
     }

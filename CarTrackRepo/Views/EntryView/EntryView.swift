@@ -21,7 +21,6 @@ struct EntryView: View {
 
     var body: some View {
         appContentStatus
-            
             .onReceive(timer) { time in
                 if self.timeRemaining > 0 {
                     self.timeRemaining -= 1

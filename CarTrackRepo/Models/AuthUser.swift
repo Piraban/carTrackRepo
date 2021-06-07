@@ -9,7 +9,6 @@ import Foundation
 
 
 struct AuthUser {
-    
     var id: Int = 1
     var username: String
     var password: String
