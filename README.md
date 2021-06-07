@@ -1,4 +1,4 @@
-# CarTrackRepo
+# carTrackRepo
 Clone the project
 SwiftUI 2.0 + Combine 
 Run on xcode 12
@@ -23,10 +23,8 @@ Currently I have added few countries
 Used Combine framework
 
 ## Notes
-SwiftUI 2.0 + Combine.
-
+SwiftUI 2.0 + Combine 
 Run on xcode 12
-
 Due to time limit I cound not finish it off UI unit test cases.
 
 

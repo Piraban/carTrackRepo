@@ -1,0 +1,22 @@
+PODS:
+  - lottie-ios (3.2.3)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+
+DEPENDENCIES:
+  - lottie-ios
+  - SQLite.swift
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+
+PODFILE CHECKSUM: bf3f8cd5dd15a73f5e5ecaf960aee38f3fe5d15b
+
+COCOAPODS: 1.10.1
